@@ -21,7 +21,7 @@ There is too much delay as API calls are significantly slower. And AIs cost mone
 
 ## 2.2 Extending to a Chatbot
 
-**1. How would you store conversation history in Postgres/MySQL? Describe the table schema.**
+**1. How would you store conversation history in Postgres (MySQL in this case)? Describe the table schema.**
 I would probably make one table for conversations and one for messages. Conversations table would just keep stuff like id, user_id, created_at etc. Then the messages table would have id, conversation_id, message text, created_at.
 
 **2. How would the bot "remember" previous messages when responding to a new one? Specifically: what exactly would you pass to the LLM on each request?**
