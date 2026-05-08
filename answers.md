@@ -3,7 +3,7 @@
 ## 2.1 Using an LLM
 
 **1. Where exactly in the script would you call the LLM? Describe what would change in the code.**
-I would probably create a gemini file and use it instead to classify_messages logc. just put the message into a string and give it to gemini.
+I would probably create a gemini file and use it instead to classify_messages logc. Like just putting the message into a string and giving it to, for example, Gemini.
 
 **2. Write an example prompt you would send to the model to classify a single message.**
 "Classify the following user message into exactly one of these categories: 'grant_search', 'report_request', 'general_question', or 'unknown'. 
