@@ -1,0 +1,26 @@
+user_id,message,created_at,channel,category
+u1,How can I apply for the grant?,2023-10-01 10:00:00,whatsapp,grant_search
+u2,Where do I find the scholarship details?,2023-10-01 10:05:00,email,grant_search
+u3,Can you send again the document?,2023-10-01 10:10:00,telegram,report_request
+u5,funding information please,2023-10-01 10:25:00,email,grant_search
+u6,Hello there,2023-10-01 10:30:00,telegram,unknown
+u8,Can you send me the report?,2023-10-01 10:45:00,telegram,report_request
+u9,When is the deadline for the funding?,2023-10-01 10:50:00,whatsapp,grant_search
+u10,Please file my request,2023-10-01 10:55:00,email,report_request
+u11,Why is the system down?,2023-10-01 11:00:00,whatsapp,general_question
+u12,grant,2023-10-01 11:05:00,telegram,grant_search
+u13,what is this?,2023-10-01 11:10:00,whatsapp,general_question
+u14,document please,2023-10-01 11:15:00,email,report_request
+u15,send again,2023-10-01 11:20:00,telegram,report_request
+u16,where am I?,2023-10-01 11:25:00,whatsapp,general_question
+u17,I want a scholarship,2023-10-01 11:30:00,email,grant_search
+u18,I don't know,2023-10-01 11:35:00,telegram,unknown
+u19,how to get funding?,2023-10-01 11:40:00,whatsapp,grant_search
+u20,report document,2023-10-01 11:45:00,email,report_request
+u21,hello,2023-10-01 11:50:00,telegram,unknown
+u22,can you help me with the scholarship deadline?,2023-10-01 11:55:00,whatsapp,grant_search
+u23,file my taxes,2023-10-01 12:00:00,email,report_request
+u24,send again the report,2023-10-01 12:05:00,telegram,report_request
+u25,what is the meaning of life?,2023-10-01 12:10:00,whatsapp,general_question
+u26,grant funding,2023-10-01 12:15:00,email,grant_search
+u27,where is my scholarship?,2023-10-01 12:20:00,telegram,grant_search

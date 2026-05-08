@@ -1,0 +1,182 @@
+[
+    {
+        "user_id": "u1",
+        "message": "How can I apply for the grant?",
+        "created_at": "2023-10-01 10:00:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u2",
+        "message": "Where do I find the scholarship details?",
+        "created_at": "2023-10-01 10:05:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u3",
+        "message": "Can you send again the document?",
+        "created_at": "2023-10-01 10:10:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": "",
+        "message": "What is the deadline?",
+        "created_at": "2023-10-01 10:15:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u4",
+        "message": "",
+        "created_at": "2023-10-01 10:20:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u5",
+        "message": "   funding information please   ",
+        "created_at": "2023-10-01 10:25:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u6",
+        "message": "Hello there",
+        "created_at": "2023-10-01 10:30:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": null,
+        "message": "I need help with my report",
+        "created_at": "2023-10-01 10:35:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u7",
+        "message": "  ",
+        "created_at": "2023-10-01 10:40:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u8",
+        "message": "Can you send me the report?",
+        "created_at": "2023-10-01 10:45:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": "u9",
+        "message": "When is the deadline for the funding?",
+        "created_at": "2023-10-01 10:50:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u10",
+        "message": "Please file my request",
+        "created_at": "2023-10-01 10:55:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u11",
+        "message": "Why is the system down?",
+        "created_at": "2023-10-01 11:00:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u12",
+        "message": "grant",
+        "created_at": "2023-10-01 11:05:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": "u13",
+        "message": "what is this?",
+        "created_at": "2023-10-01 11:10:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u14",
+        "message": "document please",
+        "created_at": "2023-10-01 11:15:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u15",
+        "message": "send again",
+        "created_at": "2023-10-01 11:20:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": "u16",
+        "message": "where am I?",
+        "created_at": "2023-10-01 11:25:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u17",
+        "message": "I want a scholarship",
+        "created_at": "2023-10-01 11:30:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u18",
+        "message": "I don't know",
+        "created_at": "2023-10-01 11:35:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": "u19",
+        "message": "   how to get funding?  ",
+        "created_at": "2023-10-01 11:40:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u20",
+        "message": "report document",
+        "created_at": "2023-10-01 11:45:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u21",
+        "message": "hello",
+        "created_at": "2023-10-01 11:50:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": "u22",
+        "message": "can you help me with the scholarship deadline?",
+        "created_at": "2023-10-01 11:55:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u23",
+        "message": "file my taxes",
+        "created_at": "2023-10-01 12:00:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u24",
+        "message": "send again the report",
+        "created_at": "2023-10-01 12:05:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": "u25",
+        "message": "what is the meaning of life?",
+        "created_at": "2023-10-01 12:10:00",
+        "channel": "whatsapp"
+    },
+    {
+        "user_id": "u26",
+        "message": "grant funding",
+        "created_at": "2023-10-01 12:15:00",
+        "channel": "email"
+    },
+    {
+        "user_id": "u27",
+        "message": "where is my scholarship?",
+        "created_at": "2023-10-01 12:20:00",
+        "channel": "telegram"
+    },
+    {
+        "user_id": "u28",
+        "message": "   \n\t",
+        "created_at": "2023-10-01 12:25:00",
+        "channel": "whatsapp"
+    }
+]
