@@ -41,3 +41,6 @@ I would honestly just add an LLM like gemini api call to classify the messages t
 
 ## Time Spent
 1 Hour was spent to review the assignment before the interview. and then roughly 2-3 hour was spent to do the task. Doing the answers and README took longer then I anticipated.
+
+## Note
+Honestly I usually just drag and drop files on github. So if something looks bad because of that, sorry.
