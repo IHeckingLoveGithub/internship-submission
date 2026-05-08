@@ -1,7 +1,7 @@
 # Digi Media Assignment
 
 ## Description
-This script basically loads a JSON that contains of user messages and the cleans it. Then it categorizes each message based on predetirmined categories and keywords And then the messages are saved to CSV and summary text file and also stored in the MySQL database.
+This script basically loads a JSON that contains of user messages and thn cleans it. Then it categorizes each message based on predetermined categories and keywords. And then the messages are saved to CSV and summary text file and also stored in the MySQL database.
 
 > **Database Choice**: I used MySQL instead of PostgreSQL since I know MySQL and I don't really use PostgreSQL.
 
@@ -40,7 +40,7 @@ If a message contains multiple keywords, the first one is chosen and accordingly
 I would honestly just add an LLM like gemini api call to classify the messages to make them more accurate. and also do better error handling and fix the bugs.
 
 ## Time Spent
-1 Hour was spent to review the assignment before the interview. and then roughly 2-3 hour was spent to do the task. Doing the answers and README took longer then I anticipated.
+1 Hour was spent to review the assignment before the interview. And then roughly 3 hour was spent to do the task. Doing the answers and README took longer then I anticipated.
 
 ## Note
 Honestly I usually just drag and drop files on github. So if something looks bad because of that, sorry.
