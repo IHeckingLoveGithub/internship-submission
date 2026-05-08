@@ -32,6 +32,9 @@ If the conversation gets too long, the AI can no longer fit all the messages int
 
 ## 2.3 RAG for Document Search
 
+## Note
+For these answers, I researched what was RAG first, then answered them.
+
 **1. How would you prepare these PDFs for search? Describe the steps — what is chunking and why it's needed, what chunk size you'd choose and why.**
 First I would extract the text from the PDFs. Then I would split the text into smaller chunks because sending entire PDFs is too large and also harder for embeddings to work correctly with. Chunking basically means dividing the text into smaller parts. I would probably use around 1000 token chunks to get a good balance chunk size.
 
