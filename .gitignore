@@ -1,0 +1,7 @@
+.env
+__pycache__/
+venv/
+*.pyc
+generate_data.py
+output/classified_messages.csv
+output/summary_report.txt
